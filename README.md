@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JalenMak6
 - 👀 I’m interested in automation, programming and networking. 
-- 🌱 I’m currently learning ansible, python and later on I will play with docker, K8s, k3s, and so on
-- 💞️ I’m looking to collaborate on everthing :)
+- 🌱 I’m currently playing ansible, python, docker, k3s, and gitlabs CICD
+- 💞️ I’m looking to collaborate on new project :)
 - 📫 How to reach me jalenmakfree@gmail.com
 
 <!---
